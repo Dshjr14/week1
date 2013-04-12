@@ -11,9 +11,13 @@ require "test/unit"
 #######################################################
 
 def say_hello
+  return "Hi!" 
+
 end
 
 def shout(input)
+
+
 end
 
 def secret_code(input)
