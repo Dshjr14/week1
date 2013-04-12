@@ -16,11 +16,13 @@ def say_hello
 end
 
 def shout(input)
-
-
+return "howdy".upcase
+return "go u nu".upcase
 end
 
 def secret_code(input)
+
+
 end
 
 # DO NOT CHANGE THE CODE BELOW THIS LINE.
