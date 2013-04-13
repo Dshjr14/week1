@@ -12,20 +12,15 @@ require "test/unit"
 
 def say_hello
   
-  return "Hi!" 
 
 end
 
 def shout(input)
-return "howdy".upcase
-return "go u nu".upcase
+
 end
 
 def secret_code(input)
-return "YDWOh".swapcase
-return "YDWOh".reverse
-return "un u Og".swapcase
-return "un u Og".reverse
+
 end
 
 # DO NOT CHANGE THE CODE BELOW THIS LINE.
