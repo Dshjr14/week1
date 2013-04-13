@@ -11,6 +11,7 @@ require "test/unit"
 #######################################################
 
 def say_hello
+  
   return "Hi!" 
 
 end
@@ -21,8 +22,10 @@ return "go u nu".upcase
 end
 
 def secret_code(input)
-
-
+return "YDWoh".swapcase
+return "YDWoh".reverse
+return "un u og".swapcase
+return "un u og".reverse
 end
 
 # DO NOT CHANGE THE CODE BELOW THIS LINE.
